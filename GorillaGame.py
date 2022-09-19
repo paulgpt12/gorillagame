@@ -1,7 +1,7 @@
 #Importieren der benötigten Module
 
 import pygame # Spiele-Modul
-import sys # zum Schließen des Fensters
+import sys # Modul zum Schließen des Fensters
 import numpy # Modul für einfachen Umgang mit großen Arrays; ich benutze es für das Generieren von Zufallszahlen
 from pygame import mixer # Musik-Modul in Pygame
 
